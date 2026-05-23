@@ -35,6 +35,16 @@
     "category": "Entertainment",
     "streamUrl": "https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8"
   },
+   {
+    "name": "Alltv2",
+    "type": "TV",
+    "logo": "https://i.imgur.com/SY4lgHf.jpeg",
+    "category": "TV",
+    "streamUrl": "https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtb29uIiwiaWF0IjoxNzc0MzkyNDY4LCJleHAiOjE3NzU1Njg1MjYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NTU2ODUyNiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly8zcnNuZXcucGFnZXMuZGV2IiwiaHR0cHM6Ly8zcnNyYWRpbzIucGFnZXMuZGV2IiwiaHR0cHM6Ly9pd2F0Y2h0di5pdHVuZXJ3b3JsZHdpZGUud29ya2Vycy5kZXYiLCJodHRwczovL2RyaXZlLmdvb2dsZS5jb20iXX0.EjGScpQI6RTg7Z5NFZWQW29JR3YDQOJDxBb4Ydmvq-U",
+    "drm": {
+      "31363232323238353336303333363036": "367662564c69425947353948374f4553"
+    }
+  },
   {
     "name": "AMC Thrillers",
     "type": "TV",
@@ -1382,18 +1392,18 @@
     "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
 },
 {
-    "name": "Sdtv Hd",
-    "type": "TV",
-    "category": "Movies",
-    "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211473/tracks-v1a1/mono.ts.m3u8",
-    "logo": "https://tse1.mm.bing.net/th/id/OIP.HVpJv1eFZ90L58njM8sBeQHaHa?pid=Api&h=220&P=0"
-  },
-  {
     "name": "Sdtv Network",
     "type": "TV",
-    "category": "Movies",
-    "streamUrl": "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8",
-    "logo": "https://tse1.mm.bing.net/th/id/OIP.HVpJv1eFZ90L58njM8sBeQHaHa?pid=Api&h=220&P=0"
+    "logo": "https://i.imgur.com/gzQ9sFM.jpeg",
+    "category": "TV",
+    "streamUrl": "https://sdtvnetworkph.sanmateocable.workers.dev/playlist.m3u8"
+  },
+   {
+    "name": "Sdtv Regional",
+    "type": "TV",
+    "logo": "https://i.imgur.com/M9G4z0K.jpeg",
+    "category": "TV",
+    "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211473/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "name": "Send The Word Online Radio",
