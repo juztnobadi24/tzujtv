@@ -1,147 +1,6 @@
 [
 
- 
 
-
-
-
-
- 
- 
-
- 
- 
- 
- 
-  
-  
- 
-  {
-    "name": "Arirang",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
-  },
-  {
-    "name": "Bloomberg Asia",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8"
-  },
-  {
-    "name": "BBC World News",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
-  },
-  {
-    "name": "CGTN News Live",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-  {
-    "name": "CGTN Documentaries",
-    "type": "TV",
-    "logo": "",
-    "category": "Documentary",
-    "streamUrl": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8"
-  },
-  {
-    "name": "Outdoor Channel",
-    "type": "TV",
-    "logo": "",
-    "category": "Sports",
-    "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
-  },
-  {
-    "name": "Thrillers",
-    "type": "TV",
-    "logo": "",
-    "category": "Movies",
-    "streamUrl": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"
-  },
-  {
-    "name": "Bein Sports Xtra",
-    "type": "TV",
-    "logo": "",
-    "category": "Sports",
-    "streamUrl": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "MovieSphere",
-    "type": "TV",
-    "logo": "",
-    "category": "Movies",
-    "streamUrl": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "TFC GUAM",
-    "type": "TV",
-    "logo": "",
-    "category": "TV",
-    "streamUrl": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
-  },
-  {
-    "name": "3ABN Kids",
-    "type": "TV",
-    "logo": "",
-    "category": "Kids",
-    "streamUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-  },
-  {
-    "name": "Blues TV",
-    "type": "TV",
-    "logo": "",
-    "category": "Music",
-    "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
-  },
-  {
-    "name": "Japanim TV",
-    "type": "TV",
-    "logo": "",
-    "category": "Animation",
-    "streamUrl": "https://foxkidstv.be:3369/stream/play.m3u8"
-  },
-  {
-    "name": "Magic Kids",
-    "type": "TV",
-    "logo": "",
-    "category": "Kids",
-    "streamUrl": "https://magicstream.ddns.net/magicstream/stream.m3u8"
-  },
-  {
-    "name": "Persiana Junior",
-    "type": "TV",
-    "logo": "",
-    "category": "Kids",
-    "streamUrl": "https://junhls.persiana.live/hls/stream.m3u8"
-  },
-  {
-    "name": "Yahoo! Finance",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "https://yahoo-samsung.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "EWTN Europe",
-    "type": "TV",
-    "logo": "",
-    "category": "Religion",
-    "streamUrl": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
-  },
-  {
-    "name": "CNN",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
-  },
   {
     "name": "Abante Radyo",
     "type": "TV",
@@ -380,7 +239,20 @@
     "category": "Movies",
     "streamUrl": "https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8"
   },
-
+ {
+    "name": "Bloomberg Asia",
+    "type": "TV",
+    "logo": "",
+    "category": "News",
+    "streamUrl": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8"
+  },
+   {
+    "name": "Blues TV",
+    "type": "TV",
+    "logo": "",
+    "category": "Music",
+    "streamUrl": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+  },
   {
     "name": "Billiard TV",
     "type": "TV",
@@ -430,12 +302,13 @@
     "streamUrl": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8"
   },
   {
-    "name": "CGTN",
+    "name": "CGTN News",
     "type": "TV",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/fe/30/84fe3021-8e9f-2d7d-073b-9de0321e39ce/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/1200x630wa.png",
     "category": "News",
     "streamUrl": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master720p.m3u8"
   },
+ 
   {
     "name": "CGTN DOCUMENTARY",
     "type": "TV",
@@ -502,6 +375,13 @@
     "logo": "https://tse2.mm.bing.net/th/id/OIP.hxk8F1WCZKbRhBH6paopnAHaFZ?pid=Api&h=220&P=0",
     "category": "News",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
+  },
+   {
+    "name": "CNN",
+    "type": "TV",
+    "logo": "https://pluspng.com/img-png/cnn-logo-png-cnn-logos-brands-and-logotypes-4390x4390.png",
+    "category": "News",
+    "streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
   },
   {
     "name": "CNN HD",
@@ -684,6 +564,13 @@
     "logo": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
     "category": "Religion",
     "streamUrl": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+  },
+   {
+    "name": "EWTN Europe",
+    "type": "TV",
+    "logo": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
+    "category": "Religion",
+    "streamUrl": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
   },
   {
     "name": "Ewtn USA",
@@ -1179,7 +1066,7 @@
     "streamUrl": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
   },
   {
-    "name": "MovieSphere",
+    "name": "Movie Sphere by Lionsgate",
     "type": "TV",
     "logo": "https://tse4.mm.bing.net/th/id/OIP.OH6KANOcVN-rpIennsy6MgHaEK?pid=Api&h=220&P=0",
     "category": "Movies",
@@ -1400,6 +1287,13 @@
     "drm": {
       "dcbdaaa6662d4188bdf97f9f0ca5e830": "31e752b441bd2972f2b98a4b1bc1c7a1"
     }
+  },
+  {
+    "name": "Persiana Junior",
+    "type": "TV",
+    "logo": "",
+    "category": "Kids",
+    "streamUrl": "https://junhls.persiana.live/hls/stream.m3u8"
   },
   {
     "name": "Persiana Korea",
@@ -1818,13 +1712,6 @@
     "streamUrl": "https://customer-ksrwu2hvu2ipx2fb.cloudflarestream.com/121fd4c01c7ed1c0b1d2c6699e52309a/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.manilatimes.net"
 },
 {
-    "name": "Thrillers",
-    "type": "TV",
-    "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",
-    "category": "Thriller & Crime",
-    "streamUrl": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"
-},
-{
     "name": "Time Line",
     "type": "TV",
     "logo": "",
@@ -1966,13 +1853,13 @@
     "category": "Music",
     "streamUrl": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
 },
-{
-    "name": "YAHOO FINANCE",
+   {
+    "name": "Yahoo! Finance",
     "type": "TV",
     "logo": "",
     "category": "News",
-    "streamUrl": "https://d1ewctnvcwvvvu.cloudfront.net/480p-cc/index.m3u8"
-},
+    "streamUrl": "https://yahoo-samsung.amagi.tv/playlist.m3u8"
+  },
 {
     "name": "Ykpaiha",
     "type": "TV",
@@ -2006,6 +1893,13 @@
     "logo": "https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg",
     "category": "Movies",
     "streamUrl": "https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8"
+  },
+  {
+    "name": "3ABN Kids",
+    "type": "TV",
+    "logo": "",
+    "category": "Kids",
+    "streamUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
   },
   {
     "name": "3rs Cartoon Movies",
