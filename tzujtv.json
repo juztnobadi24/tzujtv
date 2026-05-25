@@ -1,6 +1,13 @@
 [
  
-
+{
+  "name": "The Prince of Egypt (1998)",
+  "type": "Movies",
+  "logo": "https://image.tmdb.org/t/p/w600_and_h900_face/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+  "category": "Animated",
+  "streamUrl": "https://vidlink.pro/movie/9837",
+  "isEmbed": true
+},
   {
     "name": "PTV",
     "type": "TV",
