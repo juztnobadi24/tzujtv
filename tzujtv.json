@@ -1,7 +1,62 @@
 [
  
 
- 
+  {
+    "name": "PTV",
+    "type": "TV",
+    "logo": "",
+    "category": "News",
+    "streamUrl": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
+  },
+  {
+    "name": "CLTV36",
+    "type": "TV",
+    "logo": "",
+    "category": "Entertainment",
+    "streamUrl": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+  },
+  {
+    "name": "IBC 13",
+    "type": "TV",
+    "logo": "",
+    "category": "News",
+    "streamUrl": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8"
+  },
+  {
+    "name": "Intravel Philippines",
+    "type": "TV",
+    "logo": "",
+    "category": "Lifestyle",
+    "streamUrl": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Living Asia Channel",
+    "type": "TV",
+    "logo": "",
+    "category": "Lifestyle",
+    "streamUrl": "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
+  },
+  {
+    "name": "Mr. Bean Animated",
+    "type": "TV",
+    "logo": "",
+    "category": "Kids",
+    "streamUrl": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8"
+  },
+  {
+    "name": "Pokémon",
+    "type": "TV",
+    "logo": "",
+    "category": "Kids",
+    "streamUrl": "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
+  },
+  {
+    "name": "ABN Bible Movies Channel",
+    "type": "TV",
+    "logo": "",
+    "category": "Religious",
+    "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
+  },
  
  
 
