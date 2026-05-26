@@ -2087,6 +2087,14 @@
   "isEmbed": true
 },
  {
+  "name": "War Machine",
+  "type": "Movies",
+  "logo": "https://media.themoviedb.org/t/p/w300_and_h450_face/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+  "category": "Action",
+  "streamUrl": "https://vidfast.pro/movie/1265609",
+  "isEmbed": true
+},
+  {
   "name": "Crime 101 (2026)",
   "type": "Movies",
   "logo": "https://image.tmdb.org/t/p/w600_and_h900_face/8L1IKxEfrFHmo2Zg0qjL9yAMnbP.jpg",
