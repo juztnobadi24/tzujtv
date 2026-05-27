@@ -2333,5 +2333,11 @@
   "category": "Animated",
   "streamUrl": "https://vidfast.pro/movie/1084242",
   "isEmbed": true
+},
+ {
+  "name": "Avatar: The Way of Water",
+  "streamUrl": "76600", 
+  "type": "Movie",
+  "category": "Sci-Fi"
 }
 ]
