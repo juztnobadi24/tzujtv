@@ -4,59 +4,17 @@
   {
     "name": "PTV",
     "type": "TV",
-    "logo": "",
+    "logo": "https://newsinfo.inquirer.net/files/2024/06/ptv4.jpg",
     "category": "News",
     "streamUrl": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
   },
-  {
-    "name": "CLTV36",
-    "type": "TV",
-    "logo": "",
-    "category": "Entertainment",
-    "streamUrl": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
-  },
-  {
-    "name": "IBC 13",
-    "type": "TV",
-    "logo": "",
-    "category": "News",
-    "streamUrl": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8"
-  },
-  {
-    "name": "Intravel Philippines",
-    "type": "TV",
-    "logo": "",
-    "category": "Lifestyle",
-    "streamUrl": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "Living Asia Channel",
-    "type": "TV",
-    "logo": "",
-    "category": "Lifestyle",
-    "streamUrl": "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
-  },
-  {
-    "name": "Mr. Bean Animated",
-    "type": "TV",
-    "logo": "",
-    "category": "Kids",
-    "streamUrl": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8"
-  },
-  {
-    "name": "Pokémon",
-    "type": "TV",
-    "logo": "",
-    "category": "Kids",
-    "streamUrl": "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
-  },
-  {
-    "name": "ABN Bible Movies Channel",
-    "type": "TV",
-    "logo": "",
-    "category": "Religious",
-    "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
-  },
+ 
+
+
+ 
+
+
+ 
  
  
 
@@ -66,6 +24,13 @@
     "logo": "https://www.abante.com.ph/wp-content/uploads/2023/09/dwar_radio.webp",
     "category": "News",
     "streamUrl": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+  },
+  {
+    "name": "ABN Bible Movies Channel",
+    "type": "TV",
+    "logo": "https://tse3.mm.bing.net/th/id/OIP.ob1IaLU9DJLDRvO3UDy_DwHaE8?pid=Api&h=220&P=0",
+    "category": "Religious",
+    "streamUrl": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
   },
   {
     "name": "Action Hollywood Movies HD",
@@ -420,6 +385,13 @@
     "drm": {
       "aa8aebe35ccc4541b7ce6292efcb1bfb": "f06b6031a3604cc6708c14d83f1a1b27"
     }
+  },
+  {
+    "name": "CLTV36",
+    "type": "TV",
+    "logo": "https://cltv36.tv/wp-content/uploads/2024/09/White-border.png",
+    "category": "Entertainment",
+    "streamUrl": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
   },
   {
     "name": "CNA",
@@ -913,6 +885,20 @@
     "category": "Kids",
     "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211468/tracks-v1a1/mono.ts.m3u8"
   },
+   {
+    "name": "IBC 13",
+    "type": "TV",
+    "logo": "https://static.wikia.nocookie.net/philippinetelevision/images/9/9d/IBC_13_Logo_2023.png",
+    "category": "News",
+    "streamUrl": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8"
+  },
+   {
+    "name": "iFilm",
+    "type": "TV",
+    "logo": "",
+    "category": "Movies",
+    "streamUrl": "https://live.presstv.ir/hls/ifilmen.m3u8"
+  },
      {
     "name": "INCTV",
     "type": "TV",
@@ -920,13 +906,14 @@
     "category": "Religion",
     "streamUrl": "http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
-  {
-    "name": "iFilm",
+   {
+    "name": "Intravel Philippines",
     "type": "TV",
     "logo": "",
-    "category": "Movies",
-    "streamUrl": "https://live.presstv.ir/hls/ifilmen.m3u8"
+    "category": "Lifestyle",
+    "streamUrl": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
   },
+
   {
     "name": "Jeepney TV",
     "type": "TV",
@@ -1040,6 +1027,13 @@
     "logo": "",
     "category": "Entertainment",
     "streamUrl": "https://fl1004.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Living Asia Channel",
+    "type": "TV",
+    "logo": "https://cdna.artstation.com/p/assets/covers/images/021/183/072/large/mohini-ochangco-lac-for-thumbnail.jpg",
+    "category": "Lifestyle",
+    "streamUrl": "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
   },
   {
     "name": "Love Wine",
@@ -1176,6 +1170,13 @@
     "logo": "https://i.imgur.com/PfhtYtr.jpeg",
     "category": "Movies",
     "streamUrl": "https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8"
+  },
+   {
+    "name": "Mr. Bean Animated",
+    "type": "TV",
+    "logo": "https://tse4.mm.bing.net/th/id/OIP.RmjdgCAQnRKIOxwpLF5dhwAAAA?pid=Api&h=220&P=0",
+    "category": "Kids",
+    "streamUrl": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8"
   },
   {
     "name": "MTA1 World",
@@ -1404,6 +1405,13 @@
     "category": "Sports",
     "dateAdded": "2026-03-19",
     "streamUrl": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8"
+  },
+   {
+    "name": "Pokémon",
+    "type": "TV",
+    "logo": "https://static.vecteezy.com/system/resources/previews/027/127/591/original/pokemon-logo-pokemon-icon-transparent-free-png.png",
+    "category": "Kids",
+    "streamUrl": "https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8"
   },
   {
     "name": "Pop UK Rakuten",
