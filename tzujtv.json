@@ -10,7 +10,48 @@
   },
  
 
-
+{
+    "name": "CINEMAX",
+    "type": "TV",
+    "logo": "",
+    "category": "Movies",
+    "streamUrl": "http://23.237.104.106:8080/USA_CINEMAX/index.m3u8"
+  },
+  {
+    "name": "DISCOVERY HD",
+    "type": "TV",
+    "logo": "",
+    "category": "Documentary",
+    "streamUrl": "http://151.80.18.177:86/Discovery_HD/index.m3u8"
+  },
+  {
+    "name": "USA OUTDOOR",
+    "type": "TV",
+    "logo": "",
+    "category": "Sports",
+    "streamUrl": "http://23.237.104.106:8080/USA_OUTDOOR/mpegts"
+  },
+  {
+    "name": "GOD'S HEART RADIO",
+    "type": "Radio",
+    "logo": "",
+    "category": "Music",
+    "streamUrl": "https://securestreams.autopo.st:1092/index.mp3"
+  },
+ {
+  "name": "star television",
+  "type": "TV",
+  "logo": "",
+  "category": "Entertainment",
+  "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+},
+ {
+  "name": "PHILIPPINES TELEVISION NETWORK",
+  "type": "TV",
+  "logo": "",
+  "category": "Entertainment",
+  "streamUrl": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
+},
  
 
 
