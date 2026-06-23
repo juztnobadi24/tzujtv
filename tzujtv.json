@@ -1,5 +1,11 @@
 [
- 
+ {
+  "name": "PHILIPPINES TELEVISION NETWORK",
+  "type": "TV",
+  "logo": "",
+  "category": "Entertainment",
+  "streamUrl": "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8"
+},
 
   {
     "name": "PTV",
