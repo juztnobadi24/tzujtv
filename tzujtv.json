@@ -1,19 +1,5 @@
 [
-  {
-    "name": "Star Television",
-    "type": "TV",
-    "logo": "https://i.imgur.com/QalEBc8.jpeg",
-    "category": "TV",
-    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-   {
-    "name": "Star TV Philippines",
-    "type": "TV",
-    "logo": "",
-    "category": "TV",
-    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-{
+ {
     "name": "DURIAN TV",
     "type": "TV",
     "logo": "https://i.imgur.com/dpGrvi4.jpeg",
@@ -190,8 +176,20 @@
     "category": "Music",
     "streamUrl": "https://securestreams.autopo.st:1092/index.mp3"
   },
- 
-
+ {
+  "name": "star television",
+  "type": "TV",
+  "logo": "",
+  "category": "Entertainment",
+  "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+},
+ {
+  "name": "PHILIPPINES TELEVISION NETWORK",
+  "type": "TV",
+  "logo": "",
+  "category": "Entertainment",
+  "streamUrl": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
+},
  
 
 
@@ -1842,7 +1840,20 @@
     "category": "Sports",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist_5.m3u8"
 },
-
+ {
+    "name": "Star Television",
+    "type": "TV",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "category": "TV",
+    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+   {
+    "name": "Star TV Philippines",
+    "type": "TV",
+    "logo": "",
+    "category": "TV",
+    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
 {
     "name": "Station 1 Radio",
     "type": "Radio",
