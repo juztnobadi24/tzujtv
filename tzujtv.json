@@ -1,11 +1,137 @@
 [
- {
-  "name": "PHILIPPINES TELEVISION NETWORK",
-  "type": "TV",
-  "logo": "",
-  "category": "Entertainment",
-  "streamUrl": "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8"
-},
+  {
+    "name": "Star Television",
+    "type": "TV",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "category": "TV",
+    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+   {
+    "name": "Star TV Philippines",
+    "type": "TV",
+    "logo": "",
+    "category": "TV",
+    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+{
+    "name": "DURIAN TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/dpGrvi4.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "DREAMSTAR TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/SJOd07C.png",
+    "category": "Entertainment",
+    "streamUrl": "https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "STAR TELEVISION",
+    "type": "TV",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "PHILIPPINES TELEVISION NETWORK",
+    "type": "TV",
+    "logo": "https://i.imgur.com/B19YGN3.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "HIGHLIGHTS TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/MzgAHPk.png",
+    "category": "Entertainment",
+    "streamUrl": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "HYPE TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/PfqrJEf.png",
+    "category": "Entertainment",
+    "streamUrl": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "DREAM TV PHILIPPINES",
+    "type": "TV",
+    "logo": "https://i.imgur.com/sKMOzY7.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "STAR TV PHILIPPINES",
+    "type": "TV",
+    "logo": "https://i.imgur.com/VEpLVW0.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "SINE PLUS",
+    "type": "TV",
+    "logo": "https://i.imgur.com/gR8HDzY.png",
+    "category": "Entertainment",
+    "streamUrl": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "ASIA FLIX TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/L8seHZE.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "JPV TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/qtrfdvf.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://jpvtvph.itunerworldwide.workers.dev/jpv.live.m3u8"
+  },
+  {
+    "name": "3RS TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/50RyQA7.jpeg",
+    "category": "Entertainment",
+    "streamUrl": "https://3rstv.elektriko4444.workers.dev/peanut.m3u8"
+  },
+  {
+    "name": "3RS SINE PINOY",
+    "type": "TV",
+    "logo": "https://i.imgur.com/OCS1l7G.jpeg",
+    "category": "Movies",
+    "streamUrl": "https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8"
+  },
+  {
+    "name": "3RS MOVIE BOX",
+    "type": "TV",
+    "logo": "https://i.imgur.com/b4rjf8n.jpg",
+    "category": "Movies",
+    "streamUrl": "https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8"
+  },
+  {
+    "name": "3RS CARTOON MOVIES",
+    "type": "TV",
+    "logo": "https://i.imgur.com/OMGlC4R.jpg",
+    "category": "Kids",
+    "streamUrl": "https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8"
+  },
+  {
+    "name": "SDTV NETWORK",
+    "type": "TV",
+    "logo": "https://i.imgur.com/a/kzBBBev.png",
+    "category": "Entertainment",
+    "streamUrl": "https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "SOUTH STAR TV",
+    "type": "TV",
+    "logo": "https://i.imgur.com/44LgASs.png",
+    "category": "Entertainment",
+    "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211869/playlist.m3u8"
+  }
 
   {
     "name": "PTV",
@@ -64,20 +190,8 @@
     "category": "Music",
     "streamUrl": "https://securestreams.autopo.st:1092/index.mp3"
   },
- {
-  "name": "star television",
-  "type": "TV",
-  "logo": "",
-  "category": "Entertainment",
-  "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-},
- {
-  "name": "PHILIPPINES TELEVISION NETWORK",
-  "type": "TV",
-  "logo": "",
-  "category": "Entertainment",
-  "streamUrl": "https://philippinestelevisionnetwork.itunerworldwide.workers.dev/master.live.m3u8"
-},
+ 
+
  
 
 
@@ -1728,20 +1842,7 @@
     "category": "Sports",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist_5.m3u8"
 },
- {
-    "name": "Star Television",
-    "type": "TV",
-    "logo": "https://i.imgur.com/QalEBc8.jpeg",
-    "category": "TV",
-    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-   {
-    "name": "Star TV Philippines",
-    "type": "TV",
-    "logo": "",
-    "category": "TV",
-    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
-  },
+
 {
     "name": "Station 1 Radio",
     "type": "Radio",
