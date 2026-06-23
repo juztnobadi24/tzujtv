@@ -1,4 +1,6 @@
 [
+
+ 
  {
     "name": "DURIAN TV",
     "type": "TV",
@@ -126,6 +128,28 @@
     "category": "News",
     "streamUrl": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
   },
+{
+    "name": "DURIAN TELERADYO",
+    "type": "Radio",
+    "logo": "",
+    "category": "Music",
+    "streamUrl": "http://167.114.131.90:1848/index.mp3"
+  },
+  {
+    "name": "HOME PLUS",
+    "type": "TV",
+    "logo": "https://i.imgur.com/a/f5kHjsw.png",
+    "category": "Entertainment",
+    "streamUrl": "https://homeplushls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "name": "CCTV1",
+    "type": "TV",
+    "logo": "https://i.imgur.com/a/rhobm3B.png",
+    "category": "News",
+    "streamUrl": "http://192.187.123.50:81/live/cctv1.m3u8?tm=1781710243&key=ef0b3a7e3889a8678af6d8563a801439"
+  },
+
  
 {
   "name": "CLTV 36",
